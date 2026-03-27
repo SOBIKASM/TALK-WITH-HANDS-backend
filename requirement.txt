@@ -1,9 +1,8 @@
-mediapipe
-tensorflow
-opencv-python
-FastAPI
-WebSockets
+fastapi
+uvicorn[standard]
+websockets
 numpy
-math
 cvzone
-cors
+keras
+tensorflow-cpu
+opencv-python-headless
