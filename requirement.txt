@@ -6,3 +6,4 @@ cvzone
 keras
 tensorflow-cpu
 opencv-python-headless
+mediapipe
