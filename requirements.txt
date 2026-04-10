@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+numpy
+opencv-python-headless
+cvzone
+mediapipe
+tensorflow-cpu
