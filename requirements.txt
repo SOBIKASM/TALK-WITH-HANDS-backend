@@ -2,7 +2,8 @@ fastapi
 uvicorn
 websockets
 numpy
-opencv-python-headless
+opencv-python-headless==4.10.0.84
 cvzone
-mediapipe
+mediapipe==0.9.0.1
+protobuf==3.20.3
 tensorflow-cpu
